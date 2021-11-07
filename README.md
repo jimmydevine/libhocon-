@@ -1,2 +1,2 @@
-# libhocon-
+# libhocon++
 C++ Implementation of HOCON
